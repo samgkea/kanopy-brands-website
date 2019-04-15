@@ -1,2 +1,8 @@
 username: kd_developer
 password: ahkYRmqkr8OAWEXa8Z
+
+Site Migration
+Destination Site URL: kanopybrands.wpengine.com
+SFTP Server Address: kanopybrands.sftp.wpengine.com
+SFTP Username: kanopybrands-migration
+SFTP Password: yiZ8UJCx37
